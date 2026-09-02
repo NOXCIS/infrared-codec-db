@@ -21,7 +21,31 @@ frequency: 38000
 duty_cycle: 0.330000
 data: 1105 1105 3289 1079 1105 27921 1105 1105 3289 1079 1105 99816
 #
+name: exit
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1100 1100 1100 33577 1100 1100 1100 33577
+#
+name: texthold
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1100 1100 1100 33577 1100 1100 1100 33577
+#
+name: textoff
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1100 1100 1100 33577 1100 1100 1100 33577
+#
 name: 0
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1127 1127 2227 2227 1127 29095 1127 1127 2227 2227 1127 29095
+#
+name: --
 type: raw
 frequency: 38000
 duty_cycle: 0.330000
@@ -39,6 +63,18 @@ frequency: 38000
 duty_cycle: 0.330000
 data: 1100 1100 1100 1100 2227 30222 1100 1100 1100 1100 2227 30222
 #
+name: up
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1100 1100 1100 33577 1100 1100 1100 33577
+#
+name: 1
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1100 1100 1100 33577 1100 1100 1100 33577
+#
 name: FF
 type: raw
 frequency: 38000
@@ -50,6 +86,12 @@ type: raw
 frequency: 38000
 duty_cycle: 0.330000
 data: 1100 1100 4482 30222 1100 1100 4482 30222
+#
+name: Subtitle
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1100 1100 1100 33577 1100 1100 1100 33577
 #
 name: power
 type: raw
@@ -75,6 +117,18 @@ frequency: 38000
 duty_cycle: 0.330000
 data: 1100 1100 1100 3355 2227 27995 1100 1100 1100 3355 2227 27995
 #
+name: texton
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1100 1100 1100 33577 1100 1100 1100 33577
+#
+name: ok
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1100 1100 1100 33577 1100 1100 1100 33577
+#
 name: record
 type: raw
 frequency: 38000
@@ -87,6 +141,12 @@ frequency: 38000
 duty_cycle: 0.330000
 data: 1100 1100 1100 2227 2227 29122 1100 1100 1100 2227 2227 29122
 #
+name: tv_av
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1100 1100 5582 29095 1100 1100 5582 29095
+#
 name: vol+
 type: raw
 frequency: 38000
@@ -98,6 +158,18 @@ type: raw
 frequency: 38000
 duty_cycle: 0.330000
 data: 1100 1100 2255 32450 1100 1100 2255 32450
+#
+name: right
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1100 1100 1100 33577 1100 1100 1100 33577
+#
+name: display
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1100 1100 1100 33577 1100 1100 1100 33577
 #
 name: 5
 type: raw
@@ -117,6 +189,12 @@ frequency: 38000
 duty_cycle: 0.330000
 data: 1100 1100 3355 1100 2227 27995 1100 1100 3355 1100 2227 27995
 #
+name: input
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1100 1100 5582 29095 1100 1100 5582 29095
+#
 name: play
 type: raw
 frequency: 38000
@@ -135,8 +213,20 @@ frequency: 38000
 duty_cycle: 0.330000
 data: 1127 1127 2227 1127 1127 30195 1127 1127 2227 1127 1127 30195
 #
+name: menu
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1100 1100 1100 33577 1100 1100 1100 33577
+#
 name: mute
 type: raw
 frequency: 38000
 duty_cycle: 0.330000
 data: 1100 1100 2255 1100 3355 27995 1100 1100 2255 1100 3355 27995
+#
+name: left
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1100 1100 1100 33577 1100 1100 1100 33577

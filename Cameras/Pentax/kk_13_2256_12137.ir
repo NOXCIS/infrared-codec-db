@@ -3,7 +3,7 @@ Version: 1
 # Device: Camera; Brand: Pentax; Model: kk_13_2256_12137; from Mi Remote DB <https://github.com/ysard/mi_remote_database>
 # AGPL-3.0 license, Copyright (C) 2026 Noxcis
 #
-name: focus
+name: shutter
 type: raw
 frequency: 37910
 duty_cycle: 0.330000

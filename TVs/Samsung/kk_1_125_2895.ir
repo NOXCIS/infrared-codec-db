@@ -15,7 +15,7 @@ frequency: 38000
 duty_cycle: 0.330000
 data: 1100 1156 2235 32789 1101 1155 2236 33228
 #
-name: 7
+name: 0
 type: raw
 frequency: 38000
 duty_cycle: 0.330000
@@ -33,23 +33,41 @@ frequency: 38000
 duty_cycle: 0.330000
 data: 1078 1105 2209 2209 1078 28089
 #
-name: 8
+name: 7
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1078 1105 1078 1105 2209 29167
+#
+name: 1
 type: raw
 frequency: 38000
 duty_cycle: 0.330000
 data: 1096 1147 1096 1147 1096 31161 1096 1147 1096 1147 1096 30946
 #
-name: 9
+name: enter
 type: raw
 frequency: 38000
 duty_cycle: 0.330000
 data: 1096 1147 2193 32283 1096 1147 2193 30946
+#
+name: 8
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1078 1105 2209 1105 1078 29167
 #
 name: power
 type: raw
 frequency: 38000
 duty_cycle: 0.330000
 data: 1071 1147 6579 27514 1071 1147 6579 30946
+#
+name: 9
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1078 1105 1078 2209 1078 29167
 #
 name: vol-
 type: raw
@@ -104,6 +122,12 @@ type: raw
 frequency: 38000
 duty_cycle: 0.330000
 data: 1078 1105 1078 1105 1078 1105 1078 28089
+#
+name: 6
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1071 1147 4386 29733 1071 1147 4386 30946
 #
 name: menu
 type: raw

@@ -135,11 +135,23 @@ frequency: 36000
 duty_cycle: 0.330000
 data: 319 319 174 174 319 1711 464 104660 319 319 174 174 319 1711 464 104660
 #
+name: display
+type: raw
+frequency: 36000
+duty_cycle: 0.330000
+data: 899 145 319 1421 464 104660 899 145 319 1421 464 104660
+#
 name: 5
 type: raw
 frequency: 36000
 duty_cycle: 0.330000
 data: 1322 1400 460 104678 1322 1400 460 104678
+#
+name: pause
+type: raw
+frequency: 36000
+duty_cycle: 0.330000
+data: 201 1035 316 546 546 104649 201 1035 316 546 546 104649
 #
 name: 3
 type: raw
@@ -152,6 +164,12 @@ type: raw
 frequency: 36000
 duty_cycle: 0.330000
 data: 460 144 747 1409 460 104678 460 144 747 1409 460 104678
+#
+name: menu
+type: raw
+frequency: 36000
+duty_cycle: 0.330000
+data: 201 1035 316 546 546 104649 201 1035 316 546 546 104649
 #
 name: mute
 type: raw

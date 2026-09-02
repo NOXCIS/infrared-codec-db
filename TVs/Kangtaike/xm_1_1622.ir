@@ -135,6 +135,12 @@ frequency: 39216
 duty_cycle: 0.330000
 data: 509 1504 509 3493 509 1504 509 3493 509 3493 509 1504 509 28942
 #
+name: cancel
+type: raw
+frequency: 39216
+duty_cycle: 0.330000
+data: 509 3493 509 3493 509 3493 509 3493 509 3493 509 3493 509 28942
+#
 name: ch+
 type: raw
 frequency: 39216
@@ -164,6 +170,18 @@ type: raw
 frequency: 39216
 duty_cycle: 0.330000
 data: 509 3493 509 1478 509 3493 509 1478 509 3493 509 1478 509 28942
+#
+name: signal
+type: raw
+frequency: 39216
+duty_cycle: 0.330000
+data: 509 3493 509 3493 509 3493 509 3493 509 3493 509 1478 509 28942
+#
+name: menu
+type: raw
+frequency: 39216
+duty_cycle: 0.330000
+data: 509 3493 509 3493 509 3493 509 3493 509 3493 509 3493 509 28942
 #
 name: mute
 type: raw
