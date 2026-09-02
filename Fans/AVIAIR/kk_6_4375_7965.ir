@@ -3,13 +3,13 @@ Version: 1
 # Device: Fan; Brand: AVIAIR; Model: kk_6_4375_7965; from Mi Remote DB <https://github.com/ysard/mi_remote_database>
 # AGPL-3.0 license, Copyright (C) 2026 Noxcis
 #
-name: Max Wind
+name: wind_speed
 type: raw
 frequency: 38000
 duty_cycle: 0.330000
 data: 9000 4500 560 560 560 560 560 560 560 560 560 560 560 560 560 560 560 560 560 1680 560 1680 560 1680 560 1680 560 1680 560 1680 560 1680 560 1680 560 560 560 1680 560 1680 560 560 560 560 560 560 560 560 560 560 560 1680 560 560 560 560 560 1680 560 1680 560 1680 560 1680 560 1680 560 40180 9000 2250 560 96190
 #
-name: 4h
+name: automatic
 type: raw
 frequency: 38000
 duty_cycle: 0.330000
