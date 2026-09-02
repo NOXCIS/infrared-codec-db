@@ -3,13 +3,13 @@ Version: 1
 # Device: AC; Brand: Gree; Model: kk_3_72_5641; from Mi Remote DB <https://github.com/ysard/mi_remote_database>
 # AGPL-3.0 license, Copyright (C) 2026 Noxcis
 #
-name: power
+name: POWER
 type: raw
 frequency: 38000
 duty_cycle: 0.330000
 data: 500 6000 550 550 550 2100 550 550 550 550 550 550 550 550 550 550 550 2100 550 550 550 550 550 550 550 550 550 550 550 550 550 2100 550 550 550 550 550 2100 550 550 550 2100 550 2100 550 550 550 550 550 550 550 2100 550 550 550 550 550 2100 550 2100 550 550 550 550 550 550 539 1000
 #
-name: power_r
+name: POWER_R
 type: raw
 frequency: 38000
 duty_cycle: 0.330000

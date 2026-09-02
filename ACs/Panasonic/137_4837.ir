@@ -3,7 +3,7 @@ Version: 1
 # Device: AC; Brand: Panasonic; Model: 137_4837; from Mi Remote DB <https://github.com/ysard/mi_remote_database>
 # AGPL-3.0 license, Copyright (C) 2026 Noxcis
 #
-name: power
+name: POWER
 type: raw
 frequency: 38000
 duty_cycle: 0.330000

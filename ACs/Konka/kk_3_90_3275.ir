@@ -3,19 +3,19 @@ Version: 1
 # Device: AC; Brand: Konka; Model: kk_3_90_3275; from Mi Remote DB <https://github.com/ysard/mi_remote_database>
 # AGPL-3.0 license, Copyright (C) 2026 Noxcis
 #
-name: power
+name: POWER
 type: raw
 frequency: 38000
 duty_cycle: 0.330000
 data: 8760 4340 570 570 570 570 570 570 570 570 570 570 570 570 570 1670 570 1670 570 1670 570 570 570 570 570 570 570 570 570 570 570 570 570 570 570 570 570 570 570 570 570 570 570 1670 570 570 570 570 570 570 570 570 570 1670 570 1670 570 1670 570 570 570 1670 570 570 570 570 539 1000
 #
-name: swing
+name: SWING
 type: raw
 frequency: 38000
 duty_cycle: 0.330000
 data: 8842 4368 552 552 552 552 552 552 552 552 552 1684 552 552 552 1684 552 1684 552 1684 552 1684 552 1684 552 1684 552 552 552 1684 552 552 552 552 552 999
 #
-name: swing_r
+name: SWING_R
 type: raw
 frequency: 38000
 duty_cycle: 0.330000
